@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExcelTemplate3
+</name>
+</assembly>
+<members>
+<member name="M:ExcelTemplate3.Sheet1.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:ExcelTemplate3.Sheet1.Initialize">
+</member><member name="M:ExcelTemplate3.Sheet1.FinishInitialization">
+</member><member name="M:ExcelTemplate3.Sheet1.InitializeDataBindings">
+</member><member name="M:ExcelTemplate3.Sheet1.InitializeCachedData">
+</member><member name="M:ExcelTemplate3.Sheet1.InitializeData">
+</member><member name="M:ExcelTemplate3.Sheet1.BindToData">
+</member><member name="M:ExcelTemplate3.Sheet1.StartCaching(System.String)">
+</member><member name="M:ExcelTemplate3.Sheet1.StopCaching(System.String)">
+</member><member name="M:ExcelTemplate3.Sheet1.IsCached(System.String)">
+</member><member name="M:ExcelTemplate3.Sheet1.BeginInitialization">
+</member><member name="M:ExcelTemplate3.Sheet1.EndInitialization">
+</member><member name="M:ExcelTemplate3.Sheet1.InitializeControls">
+</member><member name="M:ExcelTemplate3.Sheet1.InitializeComponents">
+</member><member name="M:ExcelTemplate3.Sheet1.NeedsFill(System.String)">
+</member><member name="T:ExcelTemplate3.Sheet1">
+</member><member name="P:ExcelTemplate3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ExcelTemplate3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ExcelTemplate3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ExcelTemplate3.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.Initialize">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.FinishInitialization">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.InitializeDataBindings">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.InitializeCachedData">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.InitializeData">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.BindToData">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.StartCaching(System.String)">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.StopCaching(System.String)">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.IsCached(System.String)">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.BeginInitialization">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.EndInitialization">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.InitializeControls">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.InitializeComponents">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.NeedsFill(System.String)">
+</member><member name="M:ExcelTemplate3.ThisWorkbook.OnShutdown">
+</member><member name="T:ExcelTemplate3.ThisWorkbook">
+</member><member name="M:ExcelTemplate3.Globals.#ctor">
+</member><member name="T:ExcelTemplate3.Globals">
+</member><member name="M:ExcelTemplate3.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+</member><member name="T:ExcelTemplate3.ThisRibbonCollection">
+</member>
+</members>
+</doc>
